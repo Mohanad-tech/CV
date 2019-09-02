@@ -1,0 +1,23 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-style: none;
+  height: 2px;
+  width: 3%;
+  border-top: 5px dotted #d4d7dd;
+}
+img {
+border-radius: 50%;
+}
+h1 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+}
+.a:hover {
+  background-color: gold;
+}
